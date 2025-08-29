@@ -29,6 +29,41 @@
         "import": false
 	    },
         {
+         "name": "SuperBike",
+         "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
+         "url": "https://af1c1onados.vercel.app/03.3.1.Diferidos.Menu.SuperBike.w3u",
+         "info":"Adri",
+         "import": false
+        },
+        {
+         "name": "Fight Sport",
+         "image": "https://i.postimg.cc/pVwDc4Fv/Fight-Sports-new.png",
+         "url": "https://af1c1onados.vercel.app/03.7.1.Diferidos.Fight.Sport.w3u",
+         "info":"",
+         "import": false
+        },
+		{
+         "name": "MmA Sport",
+         "image": "https://i.postimg.cc/X7wtYcgm/mma-new.png",
+         "url": "https://af1cionados.vercel.app/DiFeriDos%20MmA.w3u",
+         "info":"",
+         "import": false
+        },
+		{
+         "name": "Boxing Sport",
+         "image": "https://i.postimg.cc/8Cwg2xmb/Boxing2-new.png",
+         "url": "https://af1cionados.vercel.app/DiFeriDos%20BoXing.w3u",
+         "info":"Adri",
+         "import": false
+        },
+        {
+         "name": "WWE",
+         "image": "https://i.postimg.cc/RVjHcn1r/wwe-new.png",
+         "url": "https://af1c1onados.vercel.app/Diferidos.WWE.w3u",
+         "info":"",
+         "import": false
+        },
+        {
         "name": "IPTV World",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
         "url": "http://99d0dce18193.iedem.com/playlists/uplist/4dfcfb9bf28d57df404b0d2216f615c4/playlist.m3u8",

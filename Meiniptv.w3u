@@ -21,34 +21,7 @@
         "info":"Ilimitadas conex",
         "import": false
         },
-         {
-        "name": "MotoGP",
-        "image": "https://i.postimg.cc/dVSL9t36/logo-motogp.png",
-	    "url": "https://tinylink.info/1cEsz",
-        "info": "Adri",
-        "import": false
-	    },
-        {
-         "name": "SuperBike",
-         "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
-         "url": "https://tinylink.info/189GF",
-         "info":"Adri",
-         "import": false
-        },
-		{
-         "name": "MmA Sport",
-         "image": "https://i.postimg.cc/X7wtYcgm/mma-new.png",
-         "url": "https://tinylink.info/1cEsT",
-         "info":"Adri",
-         "import": false
-        },
-         {
-         "name": "Fight Sport",
-         "image": "https://i.postimg.cc/pVwDc4Fv/Fight-Sports-new.png",
-         "url": "https://tinylink.info/189I9",
-         "info":"Adri",
-         "import": false
-        },
+        
         {
         "name": "IPTV World",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",

@@ -29,9 +29,9 @@
         "import": false
         },
           {
-        "name": "IPTV 09",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://1.84423.xyz:8000/get.php?username=PSG@273Res&password=0OPSGMessi24&type=m3u_plus",
+        "name": "IPTV THAI",
+        "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
+        "url": "https://raw.githubusercontent.com/swisszz/Myiptv-Chak/refs/heads/main/iptv2025.w3u",
         "info":"200 conex",
         "import": false
         },

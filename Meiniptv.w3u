@@ -21,17 +21,10 @@
         "info":"Ilimitadas conex",
         "import": false
         },
-         {
-        "name": "IPTV World 1",
-        "info":"",
-        "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",
-        "url": "http://99d0dce18193.iedem.com/playlists/uplist/4dfcfb9bf28d57df404b0d2216f615c4/playlist.m3u8",
-        "import": false
-        },
           {
-        "name": "IPTV THAI",
+        "name": "IPTV THAI ONLINE",
         "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
-        "url": "https://raw.githubusercontent.com/swisszz/Myiptv-Chak/refs/heads/main/iptv2025.w3u",
+        "url": "http://swisszziptv.atwebpages.com/N8VDaJ",
         "info":"200 conex",
         "import": false
         },
@@ -42,14 +35,6 @@
         "info": "Adri",
         "import": false
 	    },
-        {
-         "name": "SuperBike",
-         "image": "https://i.postimg.cc/MTPJgNDV/Super-Bike-New.png",
-         "url": "https://af1c1onados.vercel.app/03.3.1.Diferidos.Menu.SuperBike.w3u",
-         "info":"Adri",
-         "import": false
-        },
-        
         {
         "name": "IPTV World 4",
         "image": "https://i.postimg.cc/XJ5VhtB0/World-new.png",

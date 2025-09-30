@@ -15,6 +15,13 @@
         "import": false
         },
         {
+        "name": "swisszziptv",
+        "image": "https://n9.cl/kcreg",
+        "url": "http://swisszziptv.atwebpages.com/gx7dYm",
+        "info":"200 conex",
+        "import": false
+        },
+        {
         "name": "IPTV 🇹🇭TVThai",
         "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
         "url": "http://swisszziptv.atwebpages.com/SsWjVM",
@@ -39,13 +46,6 @@
         "name": "swisszziptv DE",
         "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
         "url": "http://tsvipsmart.eu:8000/get.php?username=hikmentr&password=nPLrmuKyVN&type=m3u",
-        "info":"200 conex",
-        "import": false
-        },
-        {
-        "name": "swisszziptv",
-        "image": "https://n9.cl/kcreg",
-        "url": "http://swisszziptv.atwebpages.com/iptvpanel/uploads/iptv.w3u",
         "info":"200 conex",
         "import": false
         },

@@ -36,9 +36,9 @@
         "import": false
         },
         {
-        "name": "swisszziptv DE",
+        "name": "swisszziptv Live",
         "image": "https://i.postimg.cc/wMjPCqRz/icon-png.jpg",
-        "url": "http://tsvipsmart.eu:8000/get.php?username=hikmentr&password=nPLrmuKyVN&type=m3u",
+        "url": "https://raw.githubusercontent.com/swisszz/RUsian-Chak/refs/heads/main/LIVE%20Swisszz",
         "info":"200 conex",
         "import": false
         },
